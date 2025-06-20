@@ -13,7 +13,7 @@
 - 📈 [Trader Mode v3](https://github.com/yourusername/trader-mode): Strategy backtesting with confidence-based signals
 
 ## Past projects
-- 🔍 [📈 StockPulseAI: Deep Learning-Driven Stock Price Prediction](https://github.com/yourusername/stock-detector): 
+- 🔍 [📈 StockPulseAI: Deep Learning-Driven Stock Price Prediction](https://github.com/yourusername/stock-detector)
 
 ## 📫 How to reach me
 - 📩 [Contact me](https://forms.gle/ejDZhAS9EEioXaPF8)
