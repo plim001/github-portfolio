@@ -5,7 +5,7 @@
 🌞 Passionate about Renewable Energy, AI & Analytics  
 🧠 Always learning | 📊 Always analyzing | 🤖 Always automating
 
-## 🚀 Current Projects
+## Current Projects
 - 🔍 [Stock Pattern Detector](https://github.com/yourusername/stock-detector): Analyzing market trends with technical indicators like MACD, RSI, EMA etc.
 
 ## Upcoming projects
@@ -16,5 +16,5 @@
 - 
 
 ## 📫 How to reach me
-- [Contact me](https://forms.gle/ejDZhAS9EEioXaPF8)
+- 📩 [Contact me](https://forms.gle/ejDZhAS9EEioXaPF8)
 - 💼 [LinkedIn](https://www.linkedin.com/in/peterlimyong/)
