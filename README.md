@@ -1,4 +1,3 @@
-# github-portfolio
 # 👋 Hello! I'm Lim Yong (Peter)
 
 💡 Electrical Engineer turned Data Explorer  
