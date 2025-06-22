@@ -4,7 +4,7 @@
 🌞 Passionate about Renewable Energy, AI & Analytics  
 🧠 Always learning | 📊 Always analyzing | 🤖 Always automating
 
-## [From Systems to Syntax: My Evolution in Tech]https://github.com/plim001/peterlim.portfolio/blob/Learning_Journey/README.md
+## [From Systems to Syntax: My Evolution in Tech](https://github.com/plim001/peterlim.portfolio/blob/Learning_Journey/README.md)
 
 ## Current Projects
 - 🔍 [Stock Pattern Detector](https://github.com/yourusername/stock-detector): Analyzing market trends with technical indicators like MACD, RSI, EMA etc.
