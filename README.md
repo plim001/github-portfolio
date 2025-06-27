@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 Built with HTML, CSS, and a touch of JavaScript, this site showcases my journey from systems to syntax – where engineering meets AI, data science, and creative innovation.
 
-🌐 [Live Website]([https://plim001.github.io/peterlim.portfolio/])  
+🌐 [Live Website](https://plim001.github.io/peterlim.portfolio/)  
 📧 Contact me via the embedded form on the **Contact Me** tab.
 
 ---
